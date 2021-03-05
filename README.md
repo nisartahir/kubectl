@@ -1,1 +1,1 @@
-# alpine-glibc
+# kubectl
